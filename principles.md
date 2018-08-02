@@ -12,7 +12,7 @@ We enable free flow of information. No content is under surveillance. We abide b
 We don't compromise on security when building features. We use state-of-the-art technologies, and research new security methods and technologies to make strong security guarantees.
 
 **IV. Privacy**
-Privacy is the power to selectively reveal oneself to the world. For us, it's essential to protect privacy in both communications and transactions, as well as being a Pseudo-Anonymous platform. Additionally, we strive to provide the right of total anonymity.
+Privacy is the power to selectively reveal oneself to the world. For us, it's essential to protect privacy in both communications and transactions, as well as being a pseudo-anonymous platform. Additionally, we strive to provide the right of total anonymity.
 
 **V. Transparency**
 We strive for complete openness and symmetry of information, and have no border between our core contributors and our community. We are frank about our shortcomings, especially when making short-term tradeoffs in service of our long-term goals.
